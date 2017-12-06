@@ -43,6 +43,6 @@ git add .
 git status
 git commit -m "Always amazing learning Versioning!"
 git status
-git push -u origin master
+git push origin master
 ```
 Aggiorna su GitHub e divertiti!
